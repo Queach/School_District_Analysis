@@ -16,9 +16,9 @@ The purpose of this analysis is to use pandas to read csv files and turn them in
 
 Other data remains relatively the same
 
-![before](https://raw.githubusercontent.com/Queach/election_analysis/main/Resources/Election%20Results.png "before")
+![before](https://raw.githubusercontent.com/Queach/School_District_Analysis/main/Resources/Before.png "before")
 
-![after](https://raw.githubusercontent.com/Queach/election_analysis/main/Resources/Election%20Results.png "after")
+![after](https://raw.githubusercontent.com/Queach/School_District_Analysis/main/Resources/After.png "after")
 
 ## Summary
 
